@@ -1,27 +1,29 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_11_925)">
-<g opacity="0.01">
-<path opacity="0.01" d="M200 0H0V200H200V0Z" fill="white"/>
+<g clip-path="url(#clip0_19_5266)">
+<mask id="mask0_19_5266" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+<path d="M200 0H0V200H200V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_19_5266)">
+<g filter="url(#filter0_d_19_5266)">
+<path d="M100 175C141.421 175 175 141.421 175 100C175 58.5786 141.421 25 100 25C58.5786 25 25 58.5786 25 100C25 141.421 58.5786 175 100 175Z" fill="white"/>
 </g>
-<g filter="url(#filter0_d_11_925)">
-<path d="M96 175C137.421 175 171 141.421 171 100C171 58.5786 137.421 25 96 25C54.5786 25 21 58.5786 21 100C21 141.421 54.5786 175 96 175Z" fill="white"/>
+<path d="M100 152C128.719 152 152 128.719 152 100C152 71.2812 128.719 48 100 48C71.2812 48 48 71.2812 48 100C48 128.719 71.2812 152 100 152Z" fill="black"/>
+<path d="M82 100C82 95.0294 77.9706 91 73 91C68.0294 91 64 95.0294 64 100C64 104.971 68.0294 109 73 109C77.9706 109 82 104.971 82 100Z" fill="white"/>
+<path d="M109 100C109 95.0294 104.971 91 100 91C95.0294 91 91 95.0294 91 100C91 104.971 95.0294 109 100 109C104.971 109 109 104.971 109 100Z" fill="white"/>
+<path d="M136 100C136 95.0294 131.971 91 127 91C122.029 91 118 95.0294 118 100C118 104.971 122.029 109 127 109C131.971 109 136 104.971 136 100Z" fill="white"/>
 </g>
-<path d="M96 152C124.719 152 148 128.719 148 100C148 71.2812 124.719 48 96 48C67.2812 48 44 71.2812 44 100C44 128.719 67.2812 152 96 152Z" fill="black"/>
-<path d="M78 100C78 95.0294 73.9706 91 69 91C64.0294 91 60 95.0294 60 100C60 104.971 64.0294 109 69 109C73.9706 109 78 104.971 78 100Z" fill="white"/>
-<path d="M105 100C105 95.0294 100.971 91 96 91C91.0294 91 87 95.0294 87 100C87 104.971 91.0294 109 96 109C100.971 109 105 104.971 105 100Z" fill="white"/>
-<path d="M132 100C132 95.0294 127.971 91 123 91C118.029 91 114 95.0294 114 100C114 104.971 118.029 109 123 109C127.971 109 132 104.971 132 100Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_d_11_925" x="11" y="17" width="170" height="170" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_19_5266" x="15" y="17" width="170" height="170" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="2"/>
 <feGaussianBlur stdDeviation="5"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_11_925"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_11_925" result="shape"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_19_5266"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_19_5266" result="shape"/>
 </filter>
-<clipPath id="clip0_11_925">
+<clipPath id="clip0_19_5266">
 <rect width="200" height="200" fill="white"/>
 </clipPath>
 </defs>
