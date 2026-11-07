@@ -1,40 +1,11 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_19_5499)">
-<mask id="mask0_19_5499" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
-<path d="M200 0H0V200H200V0Z" fill="white"/>
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="#stroke0_3_295" fill="black"/>
+<mask id="stroke1_3_295" maskUnits="userSpaceOnUse" x="54.0002" y="85" width="181" height="150" fill="black">
+<rect fill="white" x="54.0002" y="85" width="181" height="150"/>
+<use xlink:href="#stroke0_3_295"/>
 </mask>
-<g mask="url(#mask0_19_5499)">
-<mask id="mask1_19_5499" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
-<path d="M200 0H0V200H200V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask1_19_5499)">
-<mask id="mask2_19_5499" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
-<path d="M200 0H0V200H200V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask2_19_5499)">
-<g opacity="0.01">
-<path opacity="0.01" d="M200 0H0V200H200V0Z" fill="white"/>
-</g>
-<g filter="url(#filter0_d_19_5499)">
-<path d="M5.91361 92.9288C2.0288 96.8341 2.0288 103.166 5.91361 107.071L53.7459 155.154C54.1556 155.566 54.5923 155.935 55.0501 156.26C84.3529 182.28 129.124 181.204 157.148 153.033C186.284 123.744 186.284 76.2562 157.148 46.967C129.124 18.796 84.3529 17.7204 55.0501 43.7402C54.5923 44.0653 54.1556 44.4337 53.7459 44.8457L5.91361 92.9288Z" fill="white"/>
-</g>
-<path d="M36.0197 95.0975C33.3268 97.8051 33.3268 102.195 36.0197 104.903L69.1761 138.24C69.4601 138.526 69.7628 138.781 70.0802 139.007C90.3923 157.047 121.427 156.301 140.852 136.77C161.049 116.462 161.049 83.5378 140.852 63.2304C121.427 43.6985 90.3923 42.9528 70.0802 60.9932C69.7628 61.2186 69.4601 61.4741 69.1761 61.7597L36.0197 95.0975Z" fill="black"/>
-</g>
-</g>
-</g>
-</g>
+<path d="M160 115C184.853 115 205 135.147 205 160C205 184.853 184.853 205 160 205C148.468 205 123.955 195.311 100.99 184.925C79.0288 174.993 79.0288 145.007 100.99 135.075C123.955 124.689 148.468 115 160 115Z" stroke-width="60" stroke="white" mask="url(#stroke1_3_295)"/>
 <defs>
-<filter id="filter0_d_19_5499" x="-7" y="17" width="196" height="170" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="2"/>
-<feGaussianBlur stdDeviation="5"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_19_5499"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_19_5499" result="shape"/>
-</filter>
-<clipPath id="clip0_19_5499">
-<rect width="200" height="200" fill="white"/>
-</clipPath>
+<path id="stroke0_3_295" d="M160 115C184.853 115 205 135.147 205 160C205 184.853 184.853 205 160 205C148.468 205 123.955 195.311 100.99 184.925C79.0288 174.993 79.0288 145.007 100.99 135.075C123.955 124.689 148.468 115 160 115Z"/>
 </defs>
 </svg>
